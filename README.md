@@ -2,7 +2,7 @@
 
 **Kennesaw State University — College of Computing and Software Engineering**
 
-Website: [blockchaincyberlab.com](https://decentralizedsciencelab.com)
+Website: [decentralizedsciencelab.com](https://decentralizedsciencelab.com)
 GitHub: [github.com/dslmllab](https://github.com/dslmllab?tab=repositories)
 
 ---
