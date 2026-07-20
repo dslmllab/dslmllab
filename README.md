@@ -5,6 +5,9 @@
 Website: [decentralizedsciencelab.com](https://decentralizedsciencelab.com)
 GitHub: [github.com/dslmllab](https://github.com/dslmllab?tab=repositories)
 
+Repositories are moved to new [url](https://github.com/decentralizedsciencelab)
+
+
 ---
 
 ## About
